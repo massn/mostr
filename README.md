@@ -1,0 +1,2 @@
+# mostr
+Nostr cilent
